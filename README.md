@@ -1,7 +1,7 @@
 Hi 👋 My name is Artem
 ======================
 
-I am a beginner software developer and also an ITMO student.
+I am a beginner software developer and also ITMO student.
 ------------------------------------------------------------
 
 * 🌍  I'm based in Saint-Petersburg
